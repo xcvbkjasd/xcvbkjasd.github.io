@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>2023년 3월 16일 실습</title></head>
+<body>
+<iframe src="C:\Users\전성원\Desktop\5week.html"name="left" width="300" height="300"></iframe>
+<iframe name="right"width"300" height="300"></ifrmae>
+</body>
+</html>
